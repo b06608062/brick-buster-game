@@ -1,0 +1,11 @@
+C:\Users\fanti\source\repos\brick-buster-game\brick-buster-game\bin\Debug\brick-buster-game.exe.config
+C:\Users\fanti\source\repos\brick-buster-game\brick-buster-game\bin\Debug\brick-buster-game.exe
+C:\Users\fanti\source\repos\brick-buster-game\brick-buster-game\bin\Debug\brick-buster-game.pdb
+C:\Users\fanti\source\repos\brick-buster-game\brick-buster-game\obj\Debug\brick-buster-game.csproj.AssemblyReference.cache
+C:\Users\fanti\source\repos\brick-buster-game\brick-buster-game\obj\Debug\brick-buster-game.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanti\source\repos\brick-buster-game\brick-buster-game\obj\Debug\brick_buster_game.MainForm.resources
+C:\Users\fanti\source\repos\brick-buster-game\brick-buster-game\obj\Debug\brick_buster_game.Properties.Resources.resources
+C:\Users\fanti\source\repos\brick-buster-game\brick-buster-game\obj\Debug\brick-buster-game.csproj.GenerateResource.cache
+C:\Users\fanti\source\repos\brick-buster-game\brick-buster-game\obj\Debug\brick-buster-game.csproj.CoreCompileInputs.cache
+C:\Users\fanti\source\repos\brick-buster-game\brick-buster-game\obj\Debug\brick-buster-game.exe
+C:\Users\fanti\source\repos\brick-buster-game\brick-buster-game\obj\Debug\brick-buster-game.pdb
